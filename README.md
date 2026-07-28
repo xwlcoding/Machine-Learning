@@ -44,6 +44,10 @@ Extensive evaluations were conducted across various algorithms, exploration stra
 
 ---
 
+## References
+* Manager, & Manager. (2025). Reinforcement Learning for Adaptive Assistive Robotics.
+* Sumiea, et al. (2024). Deep Deterministic Policy Gradient Applications in Continuous Control Systems.
+
 ## 🛠️ Installation & Quick Start
 
 ```bash
