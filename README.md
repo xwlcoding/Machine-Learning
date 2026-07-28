@@ -48,15 +48,7 @@ Extensive evaluations were conducted across various algorithms, exploration stra
 * Manager, & Manager. (2025). Reinforcement Learning for Adaptive Assistive Robotics.
 * Sumiea, et al. (2024). Deep Deterministic Policy Gradient Applications in Continuous Control Systems.
 
-## 🛠️ Installation & Quick Start
 
-```bash
-# Clone the repository
-git clone [https://github.com/your-username/intelligent-wheelchair-rl.git](https://github.com/your-username/intelligent-wheelchair-rl.git)
-cd intelligent-wheelchair-rl
-
-# Install dependencies
-pip install -r requirements.txt
 
 # Run the optimal DDPG model
 python train.py --algorithm ddpg --noise ou
